@@ -3,7 +3,7 @@
 
 **Presenter**: CyberSecHazaa
 **Category**: Cybersecurity GRC | Security Awareness | Presentation
-**Tools**: PowerPoint, Excel/Google Sheets, Articles 
+**Tools**: Excel/Google Sheets, Articles 
 
 ---
 
