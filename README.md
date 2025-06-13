@@ -58,7 +58,8 @@
 
 **Metrics & Reporting** 
 - The FBI 2024 reports that Phishing/Spoofing was the top cyber crime and how each different age groups are affected by it, financially. 
-![[Pasted image 20250531110911.png]]
+![image](https://github.com/user-attachments/assets/6da034d7-ec9c-4a34-be9b-680c86675e0a)
+
 
 **Explanation**: This graph shows us the age of the victims & the amount of complaints. This data lets us know how phishing is a growing problem in the U.S, of course taking into account that those complaints are only coming from people who made those reports, so we don't know how many phishing victims are out there, could be millions. People that 60+ would be considered at most risk. The truth, everyone is at risk. All it takes is one click, entering something sensitive into the website and that's it, you're pretty much compromised. Don't let the "free vacation" or "Click HERE! for amazon gift cards!". It's just too good to be true, I want to have free vacation and amazon gift cards too but eventually, it may lead to compromise. 
 
@@ -72,7 +73,8 @@
 	- $160,015,411 in **2022**
 	- $18,728,550 in **2023**
 	- $70,013,036 in **2024**
-<img src="https://imgur.com/Wn4SEOW" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/1c291a5e-c75e-41c0-a407-17c5fbb02915)
+
 
 
 
