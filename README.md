@@ -35,7 +35,7 @@
 		Best regards, 
 		Your Boss
 
-**Explanation**: Misspells is a one of the quickest thing to recognize that this is a phishing email, in a professional environment, it's an etiquette to have real spelling & clear context. Another way we can tell it's phishing, it comes from @gmail.com which is an external domain and not @bottlehealth.com, which is the correct domain. 
+**Explanation**: Misspells is a one of the quickest thing to recognize that this is a phishing email, in a professional environment, it's an etiquette to have real spelling & clear context. Another way we can tell it's phishing, it comes from @gmail.com which is an external domain and not @wallhealth.com, which is the correct domain. 
 
 **Phishing Simulation 2**: 
 	From doctormanager@wallhealth.com
